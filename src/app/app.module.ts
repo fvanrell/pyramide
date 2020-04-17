@@ -1,5 +1,4 @@
 import { NgModule } from "@angular/core";
-import { MatGridList } from "@angular/material/grid-list";
 import { BrowserModule } from "@angular/platform-browser";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { FontAwesomeModule } from "@fortawesome/angular-fontawesome";
@@ -21,7 +20,6 @@ import { DialogComponent } from './dialog/dialog.component';
     PlayersComponent,
     GameComponent,
     MenuComponent,
-    MatGridList,
     FirstRoundComponent,
     SecondRoundComponent,
     ThirdRoundComponent,
